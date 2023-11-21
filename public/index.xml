@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Eliam Detoh</title>
+    <link>https://eliam.haboud.xyz/</link>
+    <description>Recent content on Eliam Detoh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://eliam.haboud.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment un Nokia 3310 Peut Voler une Voiture</title>
+      <link>https://eliam.haboud.xyz/article/voiture2/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eliam.haboud.xyz/article/voiture2/</guid>
+      <description>Une Intrusion dans la Cybersécurité Automobile Source et très bonne vidéo qui parle de l&amp;rsquo;article :
+Dans cet article, nous plongeons au cœur d&amp;rsquo;une affaire de cybersécurité fascinante dans le domaine automobile, révélant comment un simple téléphone Nokia 3310 pourrait être transformé en un outil de piratage de voitures.
+L&amp;rsquo;Origine Insoupçonnée du Vol Tout commence par un acte apparemment banal : des gangs s&amp;rsquo;amusant à démonter les phares des voitures et à déconnecter les câbles.</description>
+    </item>
+    
+    <item>
+      <title>SmartZone : Le site de vente de smartphones</title>
+      <link>https://eliam.haboud.xyz/projet/smartzone/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eliam.haboud.xyz/projet/smartzone/</guid>
+      <description>Ce projet a été réalisé dans le cadre de mes études (SIO1).
+Lien vers le projet
+SmartZone a été pour moi mon tout premier projet web de boutique e-commerce. Il m&amp;rsquo;a permis d&amp;rsquo;apprendre à gérer un projet qui nécessite du développement et l&amp;rsquo;apprentissage de nouvelles technologies.
+Technologies utilisées : Backend
+PHP SQL JavaScript Frontend
+HTML CSS TailwindCSS API de paiement
+Stripe J&amp;rsquo;ai commencé par créer une maquette sur Figma (un logiciel de conception de maquettes), puis j&amp;rsquo;ai réfléchi à la conception de ma base de données MySQL.</description>
+    </item>
+    
+    <item>
+      <title>Stage de Première &amp; Terminale chez LDLC</title>
+      <link>https://eliam.haboud.xyz/stage/ldlc/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eliam.haboud.xyz/stage/ldlc/</guid>
+      <description>Voici les comptes rendus de mes stages de Première et de Terminale chez LDLC Le Havre.
+Dossier de synthèse</description>
+    </item>
+    
+    <item>
+      <title>Alerte de Sécurité : Vulnérabilité CVE-2023-36884 chez Microsoft</title>
+      <link>https://eliam.haboud.xyz/article/cve36884/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eliam.haboud.xyz/article/cve36884/</guid>
+      <description>Le 11 juillet 2023, lors de son Patch Tuesday, Microsoft a signalé une vulnérabilité majeure, référencée sous le code CVE-2023-36884, touchant plusieurs versions de Windows et produits Office. Cette faille a reçu un score de gravité de 8.3 selon le système CVSSv3.
+Ce qui est préoccupant, c&amp;rsquo;est que cette vulnérabilité est actuellement exploitée de manière ciblée. Elle permet à un attaquant de lancer du code arbitraire à distance via un document Office spécifique, envoyé en utilisant des techniques d&amp;rsquo;ingénierie sociale.</description>
+    </item>
+    
+  </channel>
+</rss>

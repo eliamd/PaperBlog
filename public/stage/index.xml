@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stages on Eliam Detoh</title>
+    <link>https://eliam.haboud.xyz/stage/</link>
+    <description>Recent content in Stages on Eliam Detoh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://eliam.haboud.xyz/stage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stage de Première &amp; Terminale chez LDLC</title>
+      <link>https://eliam.haboud.xyz/stage/ldlc/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eliam.haboud.xyz/stage/ldlc/</guid>
+      <description>Voici les comptes rendus de mes stages de Première et de Terminale chez LDLC Le Havre.
+Dossier de synthèse</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vulnérabilité on Eliam Detoh</title>
+    <link>https://eliam.haboud.xyz/tags/vuln%C3%A9rabilit%C3%A9/</link>
+    <description>Recent content in Vulnérabilité on Eliam Detoh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://eliam.haboud.xyz/tags/vuln%C3%A9rabilit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alerte de Sécurité : Vulnérabilité CVE-2023-36884 chez Microsoft</title>
+      <link>https://eliam.haboud.xyz/article/cve36884/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eliam.haboud.xyz/article/cve36884/</guid>
+      <description>Le 11 juillet 2023, lors de son Patch Tuesday, Microsoft a signalé une vulnérabilité majeure, référencée sous le code CVE-2023-36884, touchant plusieurs versions de Windows et produits Office. Cette faille a reçu un score de gravité de 8.3 selon le système CVSSv3.
+Ce qui est préoccupant, c&amp;rsquo;est que cette vulnérabilité est actuellement exploitée de manière ciblée. Elle permet à un attaquant de lancer du code arbitraire à distance via un document Office spécifique, envoyé en utilisant des techniques d&amp;rsquo;ingénierie sociale.</description>
+    </item>
+    
+  </channel>
+</rss>

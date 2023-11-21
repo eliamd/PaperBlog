@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on </title>
+    <link>https://eliam.haboud.xyz/blog/</link>
+    <description>Recent content in Blogs on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Nov 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://eliam.haboud.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon Premier Article</title>
+      <link>https://eliam.haboud.xyz/blog/mon-premier-article/</link>
+      <pubDate>Tue, 14 Nov 2023 10:00:00 +0200</pubDate>
+      
+      <guid>https://eliam.haboud.xyz/blog/mon-premier-article/</guid>
+      <description>Bienvenue sur Mon Premier Article Bonjour et bienvenue sur mon blog! Dans ce premier article, je souhaite partager avec vous mon expérience de création d&amp;rsquo;un site web avec Hugo et le thème PaperMod.
+Pourquoi Hugo ? Hugo est un générateur de site statique incroyablement rapide et efficace. Voici pourquoi je l&amp;rsquo;ai choisi pour mon projet :
+Rapidité : Hugo génère des pages à une vitesse impressionnante. Simplicité : Il est facile à configurer et à utiliser.</description>
+    </item>
+    
+  </channel>
+</rss>

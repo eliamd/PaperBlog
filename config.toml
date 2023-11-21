@@ -1,0 +1,118 @@
+baseURL = "https://eliam.haboud.xyz"
+port = 1313
+bind = "0.0.0.0"
+theme = "PaperMod"
+title = "Eliam Detoh"
+defaultContentLanguage = "fr"
+[params]
+defaultTheme = "auto"
+title = "Eliam Detoh"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = false
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = true
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+dateFormat = "2 January 2006"
+showFeaturedImage = true
+defaultContentLanguage = "fr"
+showPostThumbnail = true
+postThumbnailType = "cover" # ou "contain" selon votre préférence
+
+
+[params.cover]
+linkFullImages = true
+
+
+[params.profileMode]
+enabled = true
+title = "Eliam DETOH" # Remplacez <Title> par le titre de votre choix
+subtitle = "étudiant à StJoSup"
+imageUrl = "https://media.licdn.com/dms/image/D4E03AQFKstWE-pQ2rQ/profile-displayphoto-shrink_400_400/0/1673600312573?e=1705536000&v=beta&t=12WGo1YwH5E2M4APY3LMALmLHzx8lbBbwMaMr81xBL0" # Remplacez <image link> par l'URL de votre image
+imageTitle = "" # Remplacez <title of image as alt> par le texte alternatif de l'image
+imageWidth = 120
+imageHeight = 120
+
+[[params.profileMode.buttons]]
+name = "Articles"
+url = "/article"
+
+[[params.profileMode.buttons]]
+name = "Projets"
+url = "/projet"
+
+[[params.profileMode.buttons]]
+name = "Stages"
+url = "/stage"
+
+[[params.socialIcons]]
+name = "Linkedin" # Remplacez <platform> par le nom de la plateforme, par exemple "twitter"
+url = "https://fr.linkedin.com/in/eliam-detoh" # Remplacez <link> par l'URL correspondante
+
+[[params.socialIcons]]
+name = "GitHub" # Remplacez <platform 2> par le nom d'une autre plateforme
+url = "https://github.com/eliamd" # Remplacez <link2> par l'URL correspondante
+
+
+[[menu.main]]
+identifier = "home"
+name = "Accueil"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "blog"
+name = "Articles"
+url = "/article/"
+weight = 2
+
+[[menu.main]]
+identifier = "projects"
+name = "Projets"
+url = "/projet/"
+weight = 3
+
+[[menu.main]]
+identifier = "stages"
+name = "Stages"
+url = "/stage/"
+weight = 4
+
+
+[[menu.main]]
+identifier = "cv"
+name = "CV"
+url = "https://drive.google.com/file/d/1B0PLs7LHxK6kFXtcxk_n09F27NA0rj7D/view"
+weight = 5
+
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[cover]
+hidden = false
+hiddenInList = false
+hiddenInSingle = true
