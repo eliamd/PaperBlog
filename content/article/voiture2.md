@@ -3,7 +3,7 @@ title: "Comment un Nokia 3310 Peut Voler une Voiture"
 date: 2023-11-15
 draft: false
 tags: ["Cybersécurité", "Automobile", "Hacking"]
-author: ["Eliam", "Article écris en partie par l'IA"]
+author: ["Eliam"]
 images:
 - https://kentindell.github.io/assets/images/detective-story/device2.jpg
 ---

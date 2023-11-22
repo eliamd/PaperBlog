@@ -26,7 +26,7 @@ dateFormat = "2 January 2006"
 showFeaturedImage = true
 defaultContentLanguage = "fr"
 showPostThumbnail = true
-postThumbnailType = "cover" # ou "contain" selon votre préférence
+postThumbnailType = "contain" # ou "contain" selon votre préférence
 
 
 [params.cover]
